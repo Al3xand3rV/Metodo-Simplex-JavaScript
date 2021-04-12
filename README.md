@@ -1,4 +1,4 @@
-# Metodo-Simplex-JavaScript
+# Método Simplex JavaScript
 Método Simplex JavaScript
 
 Script en JS para aplicar el Método Simplex.
